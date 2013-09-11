@@ -8,15 +8,20 @@ Dies erfolgt über: <code style="color:#0a0;">color=</code> mit anhängender Far
 
 Farbe des Players in Rot (#ff0000):
 
-	standalone-live.php?color=f00
+	standalone.php?color=f00
 
 oder:
 	
-	standalone-live.php?color=ff0000
+	standalone.php?color=ff0000
 
 ###Zusammenfassend
 
 <b>Beispiel:</b>
 
-	standalone-live.php?color=FARBCODE
-
+	standalone.php?color=FARBCODE
+	
+	
+##Live Test
+**Wikibyte hostet ein Testsystem in dem alle Funktionen noch einmal ausprobiert werden können.**
+<br>
+<a target="_blank" style="padding:10px; border:1px solid #353; background: #575; color:#fff; text-decoration:none;" href="http://cm.wikibyte.org/testcodes/neu-chapters/test.php?color=f00">Eigene Farbe: rot Testen</a> 

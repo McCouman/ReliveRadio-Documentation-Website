@@ -14,11 +14,8 @@ Ziel diese Projektes ist es die Weiterverarbeitung der täglichen ReLiveRadio Li
 
 <img src="./img/mix.png" />
 
-
 ####Funktionen der Liste: (seit Version 1.2.a)
 Relive Radio ist ein Web-Streaming so ist über die RR-Liste einzusehen, welche Podcasting in den nächsten Stunden auf Relive ausgestrahlt werden. Über ein Rückinfo (Callback) wird nun die Liste automatisch aktualisiert. So werden alte Folgen aus der Liste geleert und zeig nur noch die noch kommenden Podcasts an. Dabei muss die Website, in der der Player spielt nicht von Hand aktualisiert werden und der Stream bleibt am laufen ohne zu unterbrechen.
 
 ####Zusätzliche Funktionen: (seit Version 1.3.a)
 Die Ausgabe der gerade laufenden Podcastings werden automatisch mit Coverbild, Podcastname, Titel und Informationen der Sendung im Webpayer angezeigt. Ist eine Sendung vorbei, so werden alles Informationen automatisch, Live aktualisiert.
-
-
